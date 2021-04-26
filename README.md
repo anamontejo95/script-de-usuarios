@@ -2,6 +2,7 @@
 #Definición del script:
 
 Este script está creado para poder extraer información de los usuarios como el directorio donde trabaja, la información sobre la última conexión o el espacio que ocupa en el disco. También se pueden hacer algunas modificaciones en ellos (aunque estas opciones solo funcionan con el root), como cambiar la contraseña o eliminar el usuario seleccionado.
+
 ![vistadelmenu](https://user-images.githubusercontent.com/72501170/116113077-73af6580-a6b8-11eb-8f8a-a9b9bab09fae.png)
 
 ##Ejemplos de funcionamiento como usuario normal:
